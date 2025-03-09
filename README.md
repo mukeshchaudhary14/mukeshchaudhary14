@@ -1,7 +1,4 @@
 <h1 align="center"> 🚀 Mukesh Chaudhary | DevOps Enthusiast </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="400px">
-</p>
 
 ## 👨‍💻 About Me  
 - 🎓 Final-year **CSE Student** at **Silver Oak University, Ahmedabad**  
@@ -19,24 +16,19 @@
 
 ---
 
-## 🚀 Frameworks & Tools  
+## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="500px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50px" height="50px"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" height="50px"/>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="50px" height="50px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50px" height="50px"/>
 </p>
-
----
-
-## 🛠 Tech Stack  
-**💻 DevOps Tools & Cloud:**  
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=Jenkins&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)  
-
-**💾 Databases & CI/CD:**  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white)  
 
 ---
 
