@@ -1,11 +1,17 @@
-<h1 align="center"> 🚀 Mukesh Chaudhary | DevOps Enthusiast </h1>
+<h1 align="center"> Mukesh Chaudhary | DevOps Engineer </h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+Enthusiast;DevSecOps+%26+GitOps;Infrastructure+as+Code;Kubernetes+%26+AWS" alt="Typing SVG" /></a>
+</p>
 
 ## 👨‍💻 About Me  
-- 🎓 Final-year **CSE Student** at **Silver Oak University, Ahmedabad**  
-- 🔹 Passionate about **DevOps, Cloud, and CI/CD Automation**  
-- 💡 Learning **Kubernetes, Terraform, Jenkins, Ansible, and AWS**  
+- 🎓 **B.Tech CSE Graduate (CGPA: 8.72)** from **Silver Oak University, Ahmedabad**  
+- 🏆 Successfully completed the **[90 Days of DevOps](https://github.com/mukeshchaudhary14/90DaysOfDevOps)** challenge  
+- 💼 **Experience:** DevOps Intern at *Codesentinel* | Deployment Analyst Trainee at *Meditab Software Inc.*
+- 🔹 Passionate about **DevOps, Cloud, DevSecOps, and CI/CD Automation**  
+- 💡 Hands-on with **Kubernetes, Terraform, ArgoCD, Helm, Jenkins, Ansible, and AWS**  
 - 💼 Seeking opportunities in **DevOps & Cloud Engineering**  
-- 🚀 Currently part of the **90 Days of DevOps** challenge  
+- 🚀 Currently exploring: **Prometheus, Grafana, ArgoCD, and Microservices Security**  
 
 ---
 
@@ -13,6 +19,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-chaudhary17112002/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mukeshchaudhary14)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukesh.chaudhary.1716@gmail.com)  
+
+---
+
+## 💼 Work Experience
+
+**👨‍💻 DevOps Intern @ Codesentinel** *(Remote)*
+- Engineered automated CI/CD pipelines using **GitLab CI** and **GitHub Actions**.
+- Containerized multi-tier applications using **Docker** and deployed robust monitoring via **Prometheus & Grafana**.
+
+**⚙️ Deployment Analyst Trainee @ Meditab Software Inc.** *(Ahmedabad)*
+- Administered IIS Manager configurations for enterprise websites to ensure high availability.
+- Automated routine background services utilizing Windows Task Scheduler.
 
 ---
 
@@ -33,19 +51,51 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="50px" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50px" height="50px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50px" height="50px"/>
+</p>
 
-**💻 DevOps Tools & Cloud:**  
+**💻 DevOps Tools, IaC & Cloud:**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=Jenkins&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazonaws&logoColor=white)  
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
 
-**💾 Databases & CI/CD:**  
+**💾 Databases, CI/CD & Monitoring:**  
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%231165A6.svg?style=flat&logo=aquasecurity&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
-</p>
+---
+
+## 📌 Featured Projects
+### 🏦 End-to-End Bank App Deployment (DevSecOps)
+- Orchestrated a secure CI/CD pipeline on **AWS EKS** using **Jenkins**.
+- Integrated **SonarQube** and **Trivy** for code quality and vulnerability scanning.
+- Automated infrastructure using **Terraform** and implemented GitOps with **ArgoCD & Helm**.
+- Set up observability with **Prometheus & Grafana**.
+
+### 🛒 EasyShop – Full-Stack E-commerce Platform
+- Deployed a microservices architecture on **AWS EKS** utilizing **Terraform**.
+- Secured traffic with **NGINX Ingress Controller** and HTTPS via **Cert-Manager**.
+- Automated builds and continuous delivery using **Jenkins, DockerHub, and ArgoCD**.
+
+---
+
+## 🏆 Certifications
+- 🏅 **AWS Certified DevOps Engineer Professional** (Complete Guide)
+- 🏅 **AWS Cloud Certification**
+- 🏅 **DevOps Zero to Hero Bootcamp**
+- 🏅 **Google Crash Course on Python**
+
 ---
 
 ## 📊 GitHub Stats  
@@ -56,9 +106,9 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Profile Summary Card  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshchaudhary14&theme=darkhub&margin-w=15">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukeshchaudhary14&theme=dark" width="600px">
 </p>
 
 ---
@@ -75,4 +125,4 @@
 
 ---
 
-💡 **"Consistency is the key to mastery!"** 🚀  
+💡 **"Consistency is the key to mastery! Automate Everything, Monitor Always!"** 🚀
